@@ -24,6 +24,7 @@ Provide step-by-step instructions on how to install or set up your project.
 3.  **bare metal code for the STM32**
    This use the PIN 13 inside the STM32 as an output using 'ODR' and using 'HAL_WAIT' for delay for 1s, This will loop 1s ON and 1s OFF
    ![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/c3.png?raw=true)
+[Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/c3.png?raw=true)
 ### Step3: Using SVlinkV2 to link to the hardware
 
 1.  **Connection between the STM32 and SVLinkv2:**
