@@ -1,4 +1,4 @@
-# MKEL1123-Group-Assingment milestone 1
+# MKEL1123-Group1-Assingment milestone 1
 
 
 Bluepill stm32 blinking project.
