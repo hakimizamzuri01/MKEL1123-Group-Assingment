@@ -29,18 +29,21 @@ Provide step-by-step instructions on how to install or set up your project.
 1.  **Connection between the STM32 and SVLinkv2:**
 
   SVlink v2 pin layout
-![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q1.png?raw=true)
+![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q1.jpg?raw=true)
  make sure stm32 in the program mode
-![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q2.png?raw=true)  
+![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q2.jpg?raw=true)  
    
 2.  **upload the code in the STM32:**
 
+The Green Icon on the top right is use for uploading the code to the STM32
+![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q4.png?raw=true)
 
 
 ### Step4: SET the STM32 in operating mode
-![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q3.png?raw=true)
+![Alt text for the image](https://github.com/hakimizamzuri01/MKEL1123-Group-Assingment/blob/main/q3.jpg?raw=true)
 
 ---
 
-### google link
+### Google Video link
+[Gdrive video](https://drive.google.com/file/d/1-Td6JxVvGqeYaTiAVWJ-KXsWRnB_5VQO/view?usp=drivesdk)
 
