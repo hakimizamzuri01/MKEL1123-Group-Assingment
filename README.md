@@ -62,3 +62,13 @@ The Green Icon on the top right is use for uploading the code to the STM32
 ### Google Video link
 [Gdrive video](https://drive.google.com/file/d/1-Td6JxVvGqeYaTiAVWJ-KXsWRnB_5VQO/view?usp=drivesdk)
 
+
+### Milestone 5 code
+
+    ```c
+    #include <stdio.h>
+
+    int main() {
+        printf("Hello, World!\n");
+        return 0;
+    }
